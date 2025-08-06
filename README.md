@@ -16,14 +16,15 @@
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/external-tal-revivo-solid-tal-revivo/24/external-sdk-developer-kit-and-application-bundled-group-development-solid-tal-revivo.png" alt="external-sdk-developer-kit-and-application-bundled-group-development-solid-tal-revivo"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
   <img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
+  
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
+  <img src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
   <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/3d-fluency/94/database.png" alt="database"/>
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress"/>
 </p>
 
