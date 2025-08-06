@@ -28,6 +28,6 @@
 
 ## 🌐 Connect With Me  
 
-[<img src="https://img.icons8.com/3d-plastilina/50/linkedin--v2.png" alt="linkedin--v2"/>](https://www.linkedin.com/in/your-profile/)
+[<img src="https://img.icons8.com/3d-plastilina/50/linkedin--v2.png" alt="linkedin--v2"/>](https://www.linkedin.com/in/your-profile/)<br>
 [<img src="https://img.icons8.com/3d-plastilina/50/instagram-new.png" alt="instagram-new"/>](https://www.linkedin.com/in/your-profile/)
 [<img src="https://img.icons8.com/3d-plastilina/50/twitter--v1.png" alt="twitter--v1"/>](https://www.linkedin.com/in/your-profile/)
