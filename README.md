@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 - I'm Hosein Afshar
-- Junior Software & Blockchain Developer <img width="48" height="48" src="https://img.icons8.com/color/48/laptop--v1.png" alt="laptop--v1"/>
+- Junior Software & Blockchain Developer 💻
 - B.Sc.in Software Engineering 
 - Loves app development and programming.🤍
 
 ---
-About Me 
+## About Me 
 
 I’m a passionate Mobile Developer specializing in Flutter, with a B.Sc. in Software Engineering and hands-on experience in WordPress development.
 
