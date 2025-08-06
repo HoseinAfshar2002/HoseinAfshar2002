@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm Hosein Afshar
-- Junior Software & Blockchain Developer 
+- Junior Software & Blockchain Developer <img width="48" height="48" src="https://img.icons8.com/color/48/laptop--v1.png" alt="laptop--v1"/>
 - B.Sc.in Software Engineering 
 - Loves app development and programming.🤍
 
