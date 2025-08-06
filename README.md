@@ -48,5 +48,5 @@ Let’s connect and build something amazing together!
 ## 🌐 Connect With Me  
 
 [<img src="https://img.icons8.com/3d-plastilina/50/linkedin--v2.png" alt="linkedin--v2"/>](https://www.linkedin.com/in//hosein-afshar-825338351/)
-[<img src="https://img.icons8.com/3d-plastilina/50/instagram-new.png" alt="instagram-new"/>](https://www.linkedin.com/in/your-profile/) 
-[<img src="https://img.icons8.com/3d-plastilina/50/twitter--v1.png" alt="twitter--v1"/>](https://www.linkedin.com/in/your-profile/) 
+[<img src="https://img.icons8.com/3d-plastilina/50/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/hosein.afshar2002/) 
+[<img src="https://img.icons8.com/3d-plastilina/50/twitter--v1.png" alt="twitter--v1"/>](https://x.com/hoseinafshar2002) 
