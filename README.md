@@ -27,6 +27,11 @@
 </p>
 
 ---
+## 📚 Currently Learning
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/>
+
+
+---
 
 ## 🌐 Connect With Me  
 
