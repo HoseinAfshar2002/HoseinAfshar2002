@@ -20,6 +20,7 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
   <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress"/>
 </p>
