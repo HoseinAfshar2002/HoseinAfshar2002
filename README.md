@@ -16,11 +16,11 @@
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Xd"/>
+  <img src="https://img.icons8.com/color/48/000000/xd.png" alt="Xd"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Solidity"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Wordpress"/>
+  <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress"/>
 </p>
 
 ---
