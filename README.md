@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-skd-badge-logotype-isolated-on-white-background-development-green-tal-revivo.png" alt="external-skd-badge-logotype-isolated-on-white-background-development-green-tal-revivo"/>
+  <img src="https://img.icons8.com/external-tal-revivo-solid-tal-revivo/24/external-sdk-developer-kit-and-application-bundled-group-development-solid-tal-revivo.png" alt="external-sdk-developer-kit-and-application-bundled-group-development-solid-tal-revivo"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
