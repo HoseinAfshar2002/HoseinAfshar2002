@@ -6,7 +6,7 @@
 - Loves app development and programming.🤍
 
 ---
-About Me 
+About Me <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/person-male--v2.png" alt="person-male--v2"/>
 
 I’m a passionate Mobile Developer specializing in Flutter, with a B.Sc. in Software Engineering and hands-on experience in WordPress development.
 
