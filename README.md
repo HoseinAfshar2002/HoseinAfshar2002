@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="Dart"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
