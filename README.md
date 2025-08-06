@@ -17,7 +17,6 @@
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
   <img src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
@@ -29,6 +28,8 @@
 ---
 ## 📚 Currently Learning
 <img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
+<img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>
+
 
 
 ---
