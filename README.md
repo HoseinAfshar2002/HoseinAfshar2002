@@ -6,7 +6,7 @@
 - Loves app development and programming.🤍
 
 ---
-About Me <img src="https://img.icons8.com/3d-fluency/94/person-male--v2.png" alt="person-male--v2"/>
+About Me 
 
 I’m a passionate Mobile Developer specializing in Flutter, with a B.Sc. in Software Engineering and hands-on experience in WordPress development.
 
@@ -29,7 +29,6 @@ Let’s connect and build something amazing together!
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
   <img src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
   <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
@@ -38,7 +37,8 @@ Let’s connect and build something amazing together!
 
 ---
 ## 📚 Currently Learning
-<img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>
+<img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
+
 
 
 
