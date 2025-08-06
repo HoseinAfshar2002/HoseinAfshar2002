@@ -6,9 +6,20 @@
 - Loves app development and programming.🤍
 
 ---
+About Me 
+
+I’m a passionate Mobile Developer specializing in Flutter, with a B.Sc. in Software Engineering and hands-on experience in WordPress development.
+
+I enjoy building beautiful, fast, and user-friendly cross-platform mobile apps.
+As a Junior Developer, I’ve created practical projects that reflect both my technical skills and eagerness to grow.
+
+💡 Tech Stack: Dart, Flutter, Firebase, WordPress, Git
+📚 Always learning — currently improving my skills in state management, API integration, and modern mobile UI/UX.
+
+Let’s connect and build something amazing together!
 
 
-
+---
 
 ## 🛠️ Skills  
 
