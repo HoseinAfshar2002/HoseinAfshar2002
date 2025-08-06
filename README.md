@@ -27,8 +27,8 @@
 
 ---
 ## 📚 Currently Learning
-<img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
-<img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>
+<img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>
+
 
 
 
