@@ -28,5 +28,5 @@
 
 ## 🌐 Connect With Me  
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile/)
-[<img src="https://img.icons8.com/color-glass/50/instagram-new.png" alt="instagram-new"/>](https://www.linkedin.com/in/your-profile/)
+[<img src="https://img.icons8.com/3d-plastilina/50/linkedin--v2.png" alt="linkedin--v2"/>](https://www.linkedin.com/in/your-profile/)
+[<img src="https://img.icons8.com/3d-plastilina/50/instagram-new.png" alt="instagram-new"/>](https://www.linkedin.com/in/your-profile/)
