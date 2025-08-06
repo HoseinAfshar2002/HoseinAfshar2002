@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**HoseinAfshar2002/HoseinAfshar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Hosein Afshar
+- Junior Software & Blockchain Developer 
+- B.Sc.in Software Engineering 
+- Loves app development and programming.🤍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠️ Skills  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Xd"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Solidity"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Wordpress"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile/)
