@@ -28,3 +28,4 @@
 ## 🌐 Connect With Me  
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram"/>](https://www.linkedin.com/in/your-profile/)
