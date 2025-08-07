@@ -28,7 +28,7 @@ Let’s connect and build something amazing together!
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
+  <img width="48" height="48" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> 
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="XD"/>
   <img src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
   <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
