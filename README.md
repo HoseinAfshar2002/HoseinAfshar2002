@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - I'm Hosein Afshar
-- Junior Software & Blockchain Developer 💻
-- B.Sc.in Software Engineering 
+- Software Engineer — Backend (Golang) & Blockchain Developer 💻
 - Loves app development and programming.🤍
 
 ---
