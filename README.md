@@ -24,7 +24,7 @@ Let’s connect and build something amazing together!
 ## 🛠️ Skills  
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/000000/Go.png" alt="Android Studio"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
