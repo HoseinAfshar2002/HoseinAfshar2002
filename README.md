@@ -21,7 +21,7 @@ Let’s connect and build something amazing together!
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills being learned 📚📅
 
 <p align="left">
   <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo"/>
@@ -35,8 +35,7 @@ Let’s connect and build something amazing together!
 
 ---
 ## 📚 Learning Next 📅
-<img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img src="https://img.icons8.com/fluency/50/android-os.png" alt="android-os"/>  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
-
+<img width="64" height="64" src="https://img.icons8.com/ios/50/hourglass.png" alt="hourglass"/>
 
 
 
