@@ -8,13 +8,11 @@
 ---
 ## About Me 
 
-I’m a passionate Mobile Developer specializing in Flutter, with a B.Sc. in Software Engineering and hands-on experience in WordPress development.
+I am a Software Engineer specializing in Backend development with Golang and Blockchain development . My focus is on building scalable, high-performance systems and developing secure, reliable solutions for modern decentralized applications.
 
-I enjoy building beautiful, fast, and user-friendly cross-platform mobile apps.
-As a Junior Developer, I’ve created practical projects that reflect both my technical skills and eagerness to grow.
+I enjoy working with clean architecture, efficient code, and well-designed backend systems. Whether it’s designing APIs, optimizing performance, or exploring smart contract logic, I’m always looking for ways to create better, smarter, and more robust technology.
 
-💡 Tech Stack: Dart, Flutter, Firebase, WordPress, Git
-📚 Always learning — currently improving my skills in state management, API integration, and modern mobile UI/UX.
+With a strong passion for Web3, distributed systems, and modern backend development, I’m continuously sharpening my skills and contributing to projects that push technology forward. Open to collaboration, innovative ideas, and opportunities that align with high-quality engineering.
 
 Let’s connect and build something amazing together!
 
