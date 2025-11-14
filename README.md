@@ -25,9 +25,10 @@ Let’s connect and build something amazing together!
 
 <p align="left">
   <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo"/>
+  <img width="64" height="64" src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
+  <img width="64" height="64" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> 
   <img width="64" height="64" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
-  <img width="64" height="64" src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
   <img width="64" height="64" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img width="64" height="64" src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress"/>
 </p>
